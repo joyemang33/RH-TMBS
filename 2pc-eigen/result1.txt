@@ -1,0 +1,13 @@
+         name          |V|          |E|        value         time
+     cloister           11           47     3.727273        0.127
+     congress           52          177     3.288462        0.192
+     highland           11           34     3.090909        0.105
+      bitcoin          138         2245    14.760870        0.706
+     epinions         1017        72563    64.360865       10.271
+     slashdot          234         9584    39.846154        7.325
+      twitter          673        59017    87.041605        1.717
+     conflict         2442       239571    87.826781       13.144
+    elections          748        31466    35.866310        0.950
+     politics          648        30867    44.220679        9.931
+
+method: eigensign

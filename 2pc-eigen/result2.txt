@@ -1,0 +1,13 @@
+         name          |V|          |E|        value         time
+     cloister           18          125     3.055556        0.128
+     congress           71          223     2.887324        0.147
+     highland           16           58     2.750000        0.115
+      bitcoin          140         2211    14.507143        0.999
+     epinions          269        22919    85.148699      428.625
+     slashdot          200         8486    41.360000      154.383
+      twitter          685        59574    86.969343        7.853
+     conflict         1159        79644    63.987921      552.629
+    elections          731        31181    36.335157        2.223
+     politics          543        26059    45.011050      475.353
+
+method: greedy_signed_degree
